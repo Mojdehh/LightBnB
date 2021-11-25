@@ -1,3 +1,7 @@
+
+
+
+
 INSERT INTO users (name, email, password)
 VALUES ('Leili Rad', 'leilirad@gmail.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.'),
 ('Jack Ma', 'jackma1@gmail.com', '$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.'),
